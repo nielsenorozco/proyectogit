@@ -1,0 +1,2 @@
+archivo a agregar en el staying area
+Modificacion para el archivo en el branch primerrama
